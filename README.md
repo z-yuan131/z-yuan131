@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zhenyang Yuan
 - 👀 I’m interested in CFD
-- 🌱 I’m currently learning SEM
-- 💞️ I’m looking to collaborate on everything about SEM
+- 🌱 I’m currently learning SEM/AeroAcoustics
+- 💞️ I’m looking to collaborate on everything about SEM/AeroAcoustics
 - 📫 How to reach me: you will find out.
 
 <!---
